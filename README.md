@@ -1,6 +1,6 @@
 # Goodix Firmware
 
-Firmwares for Goodix fingerprint readers.
+Firmwares for Goodix fingerprint sensors.
 
 Those firmwares are Goodix property.
 
